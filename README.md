@@ -1,6 +1,6 @@
 # Optimization
 - This repository provides code for optimization.
-- If you have any questions related to the uploaded code, you can contact Minjae Son (thsalswo536@gmail.com).
+- If you have any questions related to the uploaded code, you can contact **Minjae Son** (thsalswo536@gmail.com).
 
 # Contents
 > Python
