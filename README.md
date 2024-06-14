@@ -5,5 +5,9 @@
 # Contents
 > Python
 - Gurobipy
+- CVXPY
+- Pyomo
 > MATLAB
+- CVX
 > Julia
+- JuMP
