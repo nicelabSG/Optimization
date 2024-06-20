@@ -4,7 +4,7 @@
 
 # Contents
 > Python
-- Gurobipy
+>> Gurobipy
 - CVXPY
 - Pyomo
 > MATLAB
