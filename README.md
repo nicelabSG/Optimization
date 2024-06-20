@@ -5,7 +5,7 @@
 # Contents
 > Python
 >> Gurobipy
-- CVXPY
+>> CVXPY
 - Pyomo
 > MATLAB
 - CVX
