@@ -4,15 +4,15 @@
 
 # Contents
 > Python
->> - Gurobipy
->> - CVXPY
->> - Pyomo
+- Gurobipy
+- CVXPY
+- Pyomo
 
 > MATLAB
->> - CVX
+- CVX
 
 > Julia
->> - JuMP
+- JuMP
 
 # Helpful Websites
 > [Introduction to Mathematical Optimization with Python](https://indrag49.github.io/Numerical-Optimization/)
