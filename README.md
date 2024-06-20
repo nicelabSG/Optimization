@@ -4,8 +4,8 @@
 
 # Contents
 > Python
->> Gurobipy
->> CVXPY
+>> - Gurobipy
+>> - CVXPY
 - Pyomo
 > MATLAB
 - CVX
