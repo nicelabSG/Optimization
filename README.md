@@ -16,3 +16,4 @@
 
 # Helpful Websites
 > [Introduction to Mathematical Optimization with Python](https://indrag49.github.io/Numerical-Optimization/)
+> [JuMP Tutorial](https://jump.dev/JuMP.jl/stable/)
