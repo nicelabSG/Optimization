@@ -7,12 +7,14 @@
 - Gurobipy
 - CVXPY
 - Pyomo
+- PyJulia
 
 > MATLAB
 - CVX
 
 > Julia
 - JuMP
+- Pyjulia
 
 # Helpful Websites
 - [Introduction to Mathematical Optimization with Python](https://indrag49.github.io/Numerical-Optimization/)<br>
