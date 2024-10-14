@@ -14,7 +14,11 @@
 
 > Julia
 - JuMP
-- Pyjulia
+- Pyjulia (Actually, it's not that good 😋)
+
+> AMPL
+- AMPLpy
+
 
 # Helpful Websites
 - [Introduction to Mathematical Optimization with Python](https://indrag49.github.io/Numerical-Optimization/)<br>
