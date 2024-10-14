@@ -14,7 +14,7 @@
 
 > Julia
 - JuMP
-- Pyjulia (Actually, it's not that good 😋)
+- Pyjulia
 
 > AMPL
 - AMPLpy
